@@ -1,8 +1,8 @@
 # ai-financial-copilot
 
-> Multi-agent RAG system with tool-calling and episodic memory for autonomous financial analysis. DeepEval tested, LangSmith traced. Context recall >87%, faithfulness >0.85.
+> Multi-agent RAG system with tool-calling and episodic memory for autonomous financial analysis. DeepEval tested, LangFuse traced. Context recall >87%, faithfulness >0.85.
 
-**Stack:** AWS/GCP · Vector DB · LangGraph · Claude API · FastAPI · Memory · Docker · DeepEval · LangSmith
+**Stack:** AWS/GCP · Vector DB · LangGraph · Claude API · FastAPI · Memory · Docker · DeepEval · LangFuse
 
 **KPIs:** Context recall >87% · Faithfulness >0.85 · DeepEval tested
 
@@ -55,3 +55,4 @@ uv run python src/main.py
 ---
 
 *Part of [Luis Carreño's Portfolio](https://github.com/lcarrenoy) · AI Engineer · Financial Engineering · Score 9.8/10*
+
